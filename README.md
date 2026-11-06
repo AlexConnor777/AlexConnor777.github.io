@@ -1,3 +1,3 @@
 # [about] 
-# [resume]
+# [resume](resume.md)
 # [contact]
