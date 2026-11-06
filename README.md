@@ -1,4 +1,4 @@
-# [about] 
-# [resume](resume.md)
-# [contact]
-# [projects]
+## [about] 
+## [resume](resume.md)
+## [contact]
+## [projects]
