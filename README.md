@@ -1,3 +1,3 @@
-# about
-# resume
-# contact
+# [about] 
+# [resume]
+# [contact]
